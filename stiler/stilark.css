@@ -1,0 +1,17 @@
+body{
+    text-align:center;
+    background-color:lightblue;
+ 
+    
+}
+
+#main{
+    
+float:center;}
+
+
+#myCanvas {
+    padding:15px 15px 0 15px;
+    border: 1px solid black;
+}
+
